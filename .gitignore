@@ -1,0 +1,17 @@
+# Node.js .gitignore
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directories
+node_modules/
+/.pnp
+.pnp.js
+
+# Environment variables
+.env
+
+# Session files
+session.json
